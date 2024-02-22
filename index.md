@@ -11,8 +11,8 @@ layout: about
 * Arixpower Technologies (2019/01 ~ Present)
   * Software Company Based in New Delhi,India
     * Founder ->2019- Present.
-    * Key Responsiblitites:Design Cross platform mobile apps | API Integration | Backend Development.
-    * Tech Stack:Flutter Developer | Django Rest Framework| FastAPI
+    * Key Responsiblitites:Design Cross platform mobile apps `|` API Integration `|` Backend Development.
+    * Tech Stack:Flutter Developer `|` Django Rest Framework `|` FastAPI
 
 * Bharti Infratel (2017/03 ~ 2018/12)
   * Data Analytsics-
@@ -21,6 +21,5 @@ layout: about
 <br/>
 
 # Interests
-I am interested in technology trends(Ed Tech ).  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+I am interested in technology trends(Ed Tech `|` AI ).  
+Books & Cricket
