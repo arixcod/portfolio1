@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Student ID Card Printing Automation"
-info: "Create my github blog."
+info: "Student ID Card Printing Automation"
 tech: "Flutter,Dart, Django , Django Rest Framework,Fabric.js"
 type: info
 ---
