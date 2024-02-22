@@ -3,24 +3,24 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+   Backend developer proficient in Django, FastAPI, and Flutter,With more than 3 year+ experience building authentication APIS and cross-platform mobile app development.
 
 <br/>
 
 # Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+* Arixpower Technologies (2019/01 ~ Present)
+  * Software Company Based in New Delhi,India
+    * Founder ->2019- Present.
+    * Key Responsiblitites:Design Cross platform mobile apps | API Integration | Backend Development.
+    * Tech Stack:Flutter Developer | Django Rest Framework| FastAPI
+
+* Bharti Infratel (2017/03 ~ 2018/12)
+  * Data Analytsics-
+  * Analyse Data genrated and provide actionable 
 
 <br/>
 
 # Interests
-I am interested in technology trends.  
+I am interested in technology trends(Ed Tech ).  
 I'm not afraid to learn languages, but I enjoy using Python.  
 I like to automate and reduce annoying things.  
