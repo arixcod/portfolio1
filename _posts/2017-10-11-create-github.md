@@ -1,17 +1,23 @@
 ---
 layout: post
-title:  "Create github"
-info: "Create new github repository"
-tech: "none"
-type: A Company
+title:  "Real estate Android App"
+info: "Real estate Android App"
+tech: "Flutter , Firebase"
+type: info
 ---
 
 ## Create 
-This time I recorded the creation of the github account.  
-I can not say this is a project, but I did not have a project to write.  
+
+This is a project for the Real estate client, which will have following features :
+        *Property Listing
+        * Grievance Management System
+        * Mortgage Calculator
+
 
 ## Tech
-There is no description because I created an account on the homepage.  
+
+    Ongoing Project , so challanges will be posted lates
+
 
 ## Duration
-It takes less than an hour to create an account.
+    Ongoing

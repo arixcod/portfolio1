@@ -1,22 +1,22 @@
 ---
 layout: post
-title:  "Reservation Bot"
-info: "Restaurant Reservation Bot"
-tech: "Python, Slack API"
-type: B Company
+title:  "Backend Service for Pathlab"
+info: "Backend Service for Pathlab"
+tech: "Django, Django Rest API"
+type: info
 ---
 
-## Reservation Bot 
-This is just a project that suddenly reminds me.  
-Of course I did not actually work, I wrote something plausible.  
-To be honest, the project here is a virtual project.  
-It's all fake.  
+## Description : 
+Project Built on Django and to automate the Backend services of pathlab.
+    To keep Track of the Supplies .
+**Since its Pathlab client has asked to not to share details.
+front-end : Desinged in Bootstrap and Vanilla Js
+
+## Challanges :
+
+    Challanges were to handle authentication and data privacy.
 
 
-## Tech
-I usually create a Bot with Slack and build it using the slack API.  
-nd I used my favorite Python.  
 
-
-## Duration
-I'll make it in a day.  
+## Duration :
+ Built in 1 Month

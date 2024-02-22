@@ -1,19 +1,24 @@
 ---
 layout: post
-title:  "Toy Project 1"
-info: "toy project"
-tech: "python3"
+title:  "ERP For College"
+info: "ERP For College"
+tech: "Django, Flutter and firebase,sql"
 type: Toy
 ---
 
-## Toy Project 1.
-Creating a virtual project as a sample is difficult.  
-So some of the samples will just copy the existing sample.  
+## Description :
+
+ERP System fo the College for Managing students data , Students Fee collection and sending Autmated Fee Reminders,
 
 
-## Tech
-This is a project using Python3.  
 
 
-## Duration
-It seems to take about a week.
+
+## Challanges :
+
+        Main Challange Was to  Design the Database Schema for the students.       
+
+
+## Duration :
+
+    Project Was Complex and built during Covid Times took 3 Months
